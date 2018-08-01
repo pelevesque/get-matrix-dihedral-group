@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/pelevesque/get-matrix-dihedral-group.git"
   },
-  "keywords": [],
+  "keywords": [
+    "matrix",
+    "dihedral",
+    "group"
+  ],
   "author": "Pierre-Emmanuel Lévesque <pierre.e.levesque@gmail.com>",
   "license": "MIT",
   "bugs": {
