@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/get-matrix-dihedral-group",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gets all the variants for a matrix dihedral group.",
   "main": "index.js",
   "engines": {
