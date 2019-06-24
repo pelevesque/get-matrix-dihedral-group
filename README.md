@@ -8,7 +8,7 @@ Gets all the variants of a matrix dihedral group.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/get-matrix-dihedral-group](https://www.npmjs.com/package/@pelevesque/get-matrix-dihedral-group)
+https://www.npmjs.com/package/@pelevesque/get-matrix-dihedral-group
 
 ## Installation
 
@@ -26,7 +26,7 @@ Gets all the variants of a matrix dihedral group.
 
 ## Usage
 
-### Requiring the module
+### Requiring
 
 ```js
 const getMatrixDihedralGroup = require('@pelevesque/get-matrix-dihedral-group')
